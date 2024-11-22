@@ -1,5 +1,4 @@
-No js pure html and css
-
-issues
+Issues
+--
 need fix profile pic 
-use emebed for links to work in iframes
+
